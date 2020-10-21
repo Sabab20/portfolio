@@ -1,0 +1,106 @@
+body{margin: 0;
+	
+	font-family: 'Roboto', sans-serif;
+}
+header
+{margin: auto;
+	text-align: center;
+
+}
+
+
+h1
+{padding:50px 50px;
+	margin: 0;
+
+}
+
+.container1{
+	width: 1040px;
+	margin: auto;
+	padding:5px 10px;
+	overflow: hidden;
+
+}
+.container2{
+	width: 1040px;
+	margin: auto;
+	padding: 5px 10px;
+	overflow: hidden;
+
+}
+.box1
+{ background-color:  #bfbfbf54;  
+ float: left;
+  width: 30%;
+  box-sizing: border-box;
+  padding: 20px 20px;
+  margin: 15px;
+}
+
+.box2
+{background-color:  #bfbfbf54;  
+	 float: left;
+  width: 30%;
+   box-sizing: border-box;
+   padding: 20px 20px;
+   margin: 15px;
+}
+.box3
+{  background-color:  #bfbfbf54;  
+ float: left;
+  width: 30%;
+   box-sizing: border-box;
+   padding: 20px 20px;
+   margin: 15px;
+}
+.container{
+	margin: auto;
+	background-color: #bfbfbf54;
+	overflow: hidden;
+	text-align: center;
+}
+.container3{
+	margin: auto;
+	width: 1020px;
+	overflow: hidden;
+	text-align: center;
+}
+
+
+.box4{
+	
+    
+ float: left;
+  width: 30%;
+   box-sizing: border-box;
+   padding:10px;
+   margin:15px;
+   overflow: hidden;
+}
+.box5{
+	
+    
+ float: left;
+  width: 30%;
+   box-sizing: border-box;
+   padding:10px;
+   margin:15px;
+   overflow: hidden;
+}
+.box6{
+	
+    
+ float: left;
+  width: 30%;
+   box-sizing: border-box;
+   padding:10px;
+   margin:15px;
+   overflow: hidden;
+}
+
+img{
+	margin: 0;
+	padding: 0px 0px;
+	max-width: 100%;
+}
